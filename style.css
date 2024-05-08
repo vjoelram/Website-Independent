@@ -1,0 +1,49 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.cat {
+  color: #ff0000;
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+border: red 10px dashed;
+  padding: 10px;
+  margin: 20px;
+  width: 1200px;
+  justify-content: space-evenly;
+  
+}
+.main {
+  color: #ff0000;
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  display: flexbox
+  f;
+border: red 10px dashed;
+  padding: 10px;
+  margin: 20px;
+  img{
+    border: orange 10px dotted;
+    padding: 10px;
+  }
+}
+body {
+  background-color: #00ffcc;
+}
+.shop {
+  color: #ff0000;
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  display: flexbox;
+  flex-direction: row;
+border: red 10px dashed;
+  padding: 10px;
+  margin: 20px;
+  width: 500px;
+}
